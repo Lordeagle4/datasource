@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Awtechs\Datasource\Contracts;
+namespace Awtechs\DataSource\Contracts;
 
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Database\Eloquent\Builder;

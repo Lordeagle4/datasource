@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Awtechs\\Datasource\\": "src/"
+            "Awtechs\\DataSource\\": "src/"
         }
     },
     "authors": [
